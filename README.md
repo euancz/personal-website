@@ -7,16 +7,9 @@ Section: BSIT 3A
 
 ## Project Description This project is a simple personal portfolio website created using HTML and CSS. It introduces myself and showcases my educational background, skills, and interests. 
 
-## Features
-Personal Profile
-About Me 
-Education
-Skills
-Contact Information 
+## Features - Personal Profile - About Me - Education - Skills - Contact Information 
 
-## Technologies Used 
-HTML5
-CSS3
+## Technologies Used - HTML5 - CSS3
 
 ## Live Website https://euancz.github.io/personal-website/ 
 
